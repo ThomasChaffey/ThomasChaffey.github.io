@@ -38,7 +38,7 @@ The figure above shows an analytical SRG of an LTI transfer function (left, Nyqu
 * Chaffey, Forni, Sepulchre, *Graphical Nonlinear System Analysis*, preprint 2021, [arxiv](https://arxiv.org/abs/2107.11272)
 * Chaffey, *A rolled-off passivity theorem*, preprint 2021, [arxiv](https://arxiv.org/abs/2108.07634)
 * Chaffey, Forni, Sepulchre, *Scaled Relative Graphs for system analysis*, to be presented at the 2021 IEEE CDC, [arxiv](https://arxiv.org/abs/2103.13971)
-* Ryu, Yin, Hannah, *Scaled relative graphs: nonexpansive operators via 2D Euclidean geometry*, Mathematical Programming 2021, [journal](https://link.springer.com/article/10.1007/s10107-021-01639-w)
+* Ryu, Hannah, Yin, *Scaled relative graphs: nonexpansive operators via 2D Euclidean geometry*, Mathematical Programming 2021, [journal](https://link.springer.com/article/10.1007/s10107-021-01639-w)
 
 ### Collaborators
 * [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/), University of Cambridge
