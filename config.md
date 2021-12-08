@@ -15,7 +15,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Thomas Chaffey"
 website_descr = "Research in nonlinear control systems, circuits and optimization."
-website_url   = "https://thomaschaffey.github.io/"
+website_url   = "https://www.tchaffey.com"
 +++
 
 <!--
