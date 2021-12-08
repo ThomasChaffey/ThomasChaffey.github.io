@@ -15,7 +15,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Thomas Chaffey"
 website_descr = "Research in nonlinear control systems, circuits and optimization."
-website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
+website_url   = "https://thomaschaffey.github.io/"
 +++
 
 <!--
@@ -23,3 +23,5 @@ Add here global latex commands to use throughout your pages.
 -->
 \newcommand{\R}{\mathbb R}
 \newcommand{\scal}[1]{\langle #1 \rangle}
+
+@def prepath = ""
