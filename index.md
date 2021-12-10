@@ -28,7 +28,7 @@ I am a PhD student in the Control Group, University of Cambridge, UK, supervised
 @@im-50
 ![SRG](/assets/images/srg.svg)
 @@
-Scaled Relative Graphs (SRGs) are a new tool in optimization, developed by Ernest Ryu, Robert Hannah and Wotao Yin for the study of convergence of optimization algorithms.  My project studies the relationship between the SRG and the classical Nyquist diagram of LTI control theory.  
+Scaled Relative Graphs (SRGs) are a new tool in optimization, developed by [Ernest Ryu, Robert Hannah and Wotao Yin](https://link.springer.com/article/10.1007/s10107-021-01639-w) for the study of convergence of optimization algorithms.  My project studies the relationship between the SRG and the classical Nyquist diagram of LTI control theory.  
 
 The SRG is a generalization of the Nyquist diagram to stable nonlinear operators.  Like the Nyquist diagram, the SRG can be used to determine when a feedback system will be stable.  Studying stability with SRGs gives a graphical unification of many existing results on incremental stability, and opens up an entirely new avenue for studying nonlinear system properties.  Particularly interesting properties include nonlinear robustness margins defined as distances between SRGs.  
 
@@ -38,7 +38,6 @@ The figure above shows an analytical SRG of an LTI transfer function (left, Nyqu
 * Chaffey, Forni, Sepulchre, *Graphical Nonlinear System Analysis*, preprint 2021, [arxiv](https://arxiv.org/abs/2107.11272)
 * Chaffey, *A rolled-off passivity theorem*, preprint 2021, [arxiv](https://arxiv.org/abs/2108.07634)
 * Chaffey, Forni, Sepulchre, *Scaled Relative Graphs for system analysis*, to be presented at the 2021 IEEE CDC, [arxiv](https://arxiv.org/abs/2103.13971)
-* Ryu, Hannah, Yin, *Scaled relative graphs: nonexpansive operators via 2D Euclidean geometry*, Mathematical Programming 2021, [journal](https://link.springer.com/article/10.1007/s10107-021-01639-w)
 
 ### Collaborators
 * [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/), University of Cambridge
