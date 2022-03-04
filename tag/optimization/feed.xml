@@ -9,14 +9,14 @@
 
   <channel>
     <title>
-      <![CDATA[  {{fd2rss website_title}}  ]]>
+      <![CDATA[  Thomas Chaffey  ]]>
     </title>
-    <link> {{website_url}} </link>
+    <link> https://www.tchaffey.com </link>
     <description>
-      <![CDATA[  {{fd2rss website_description}}  ]]>
+      <![CDATA[  Research in nonlinear control systems, circuits and optimization.  ]]>
     </description>
     <atom:link
-      href="{{fd_rss_feed_url}}"
+      href="https://www.tchaffey.com/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
