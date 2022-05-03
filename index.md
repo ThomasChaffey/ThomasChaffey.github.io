@@ -67,11 +67,13 @@ The property of monotoncity can be used to understand systems with self-sustaini
 * Chaffey, Sepulchre, *Monotone one-port circuits*, preprint 2021, [arxiv](https://arxiv.org/abs/2111.15407), [code](https://github.com/ThomasChaffey/monotone-one-port-circuits)
 * Chaffey, Sepulchre, *Monotone RLC Circuits*, 2021 European Control Conference, winner of the Best Student Paper Award, [arxiv](https://arxiv.org/abs/2012.11533)
 * Das, Chaffey, Sepulchre, *Oscillations in Mixed-Feedback Systems*, preprint 2021, [arxiv](https://arxiv.org/abs/2103.16379)
+* Chaffey, Padoan, *Circuit Model Reduction with Scaled Relative Graphs*, submitted to 2022 IEEE CDC [arxiv](https://arxiv.org/abs/2204:01434)
 
 ### Collaborators
 * [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/), University of Cambridge
 * [Amritam Das](http://amritamdas.com/), KTH Royal Institute of Technology
 * [Fulvio Forni](https://sites.google.com/site/fulvioforni/), University of Cambridge
+* [Alberto Padoan](albertopadoan.com), ETH Zurich
 
 ## Differential control synthesis
 
