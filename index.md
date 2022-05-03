@@ -38,10 +38,12 @@ The figure above shows an analytical SRG of an LTI transfer function (left, Nyqu
 * Chaffey, Forni, Sepulchre, *Graphical Nonlinear System Analysis*, preprint 2021, [arxiv](https://arxiv.org/abs/2107.11272)
 * Chaffey, *A rolled-off passivity theorem*, Systems & Control Letters, vol. 162, April 2022, [journal](https://www.sciencedirect.com/science/article/pii/S0167691122000421), [arxiv](https://arxiv.org/abs/2108.07634)
 * Chaffey, Forni, Sepulchre, *Scaled Relative Graphs for system analysis*, 2021 IEEE CDC, winner of the Oustanding Student Paper Award [arxiv](https://arxiv.org/abs/2103.13971)
+* Chaffey, Padoan, *Circuit Model Reduction with Scaled Relative Graphs*, submitted to 2022 IEEE CDC [arxiv](https://arxiv.org/abs/2204:01434)
 
 ### Collaborators
 * [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/), University of Cambridge
 * [Fulvio Forni](https://sites.google.com/site/fulvioforni/), University of Cambridge
+* [Alberto Padoan](albertopadoan.com), ETH Zurich
 
 ## Monotone circuits
 
