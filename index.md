@@ -19,7 +19,10 @@ and nonlinear circuit theory with modern methods from optimization.  Particular 
 I love searching for connections between the latest research topics and old, forgotten ideas.  My two biggest heros are probably [Jan Willems](https://homes.esat.kuleuven.be/~sistawww/smc/jwillems/) and [George Zames](http://www.mit.edu/~mitter/publications/85_legacy_zames_IEEEAC.pdf).
 
 # Bio
-I am a PhD student in the Control Group, University of Cambridge, UK, supervised by [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/).  In October 2022, I will take up the Maudslay-Butler Research Fellowship at [Pembroke College, Cambridge](https://www.pem.cam.ac.uk/).  My undergraduate degree was in mathematics and computer science, and my masters was in mechanical engineering, both at the University of Sydney, Australia.  I'm a qualified welder, and I love rock climbing, cycling, surfing and music.
+I am a PhD student in the Control Group, University of Cambridge, UK, supervised by [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/).  In October 2022, I will take up the Maudslay-Butler Research Fellowship at [Pembroke College, Cambridge](https://www.pem.cam.ac.uk/).  My undergraduate degree was in mathematics and computer science, and my masters was in mechanical engineering, both at the University of Sydney, Australia.  I'm a qualified welder, and I love rock climbing, cycling, surfing and music (especially Bach and anything with a time signature of 7).
+
+# Publications
+For a full list of publications, see my [Google Scholar page](https://scholar.google.nl/citations?user=mpR3WKgAAAAJ&hl=en).  A copy of my PhD thesis can be downloaded [here](/assets/pdf/Tom_thesis.pdf).  Please let me know if you find any typos.
 
 # Projects
 
@@ -66,7 +69,7 @@ The property of monotoncity can be used to understand systems with self-sustaini
 ### Publications
 * Chaffey, Sepulchre, *Monotone one-port circuits*, preprint 2021, [arxiv](https://arxiv.org/abs/2111.15407), [code](https://github.com/ThomasChaffey/monotone-one-port-circuits)
 * Chaffey, Sepulchre, *Monotone RLC Circuits*, 2021 European Control Conference, winner of the Best Student Paper Award, [arxiv](https://arxiv.org/abs/2012.11533)
-* Das, Chaffey, Sepulchre, *Oscillations in Mixed-Feedback Systems*, preprint 2021, [arxiv](https://arxiv.org/abs/2103.16379)
+* Das, Chaffey, Sepulchre, *Oscillations in Mixed-Feedback Systems*, Systems & Control Letters, vol. 166, August 2022, [journal](https://www.sciencedirect.com/science/article/pii/S0167691122000998), [arxiv](https://arxiv.org/abs/2103.16379)
 * Chaffey, Padoan, *Circuit Model Reduction with Scaled Relative Graphs*, submitted to 2022 IEEE CDC [arxiv](https://arxiv.org/abs/2204:01434)
 
 ### Collaborators
