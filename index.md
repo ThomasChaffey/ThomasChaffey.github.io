@@ -70,13 +70,17 @@ The property of monotoncity can be used to understand systems with self-sustaini
 * Chaffey, Sepulchre, *Monotone one-port circuits*, preprint 2021, [arxiv](https://arxiv.org/abs/2111.15407), [code](https://github.com/ThomasChaffey/monotone-one-port-circuits)
 * Chaffey, Sepulchre, *Monotone RLC Circuits*, 2021 European Control Conference, winner of the Best Student Paper Award, [arxiv](https://arxiv.org/abs/2012.11533)
 * Das, Chaffey, Sepulchre, *Oscillations in Mixed-Feedback Systems*, Systems & Control Letters, vol. 166, August 2022, [journal](https://www.sciencedirect.com/science/article/pii/S0167691122000998), [arxiv](https://arxiv.org/abs/2103.16379)
-* Chaffey, Padoan, *Circuit Model Reduction with Scaled Relative Graphs*, submitted to 2022 IEEE CDC [arxiv](https://arxiv.org/abs/2204:01434)
+* Chaffey, Padoan, *Circuit Model Reduction with Scaled Relative Graphs*, 2022 IEEE CDC [arxiv](https://arxiv.org/abs/2204:01434)
+* Chaffey, Banert, Giselsson, Pates, *Circuit Analysis using Monotone+Skew Splitting*, submitted to 2023 European Control Conference, [arxiv](https://arxiv.org/abs/2211.14010)
 
 ### Collaborators
 * [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/), University of Cambridge
 * [Amritam Das](http://amritamdas.com/), KTH Royal Institute of Technology
 * [Fulvio Forni](https://sites.google.com/site/fulvioforni/), University of Cambridge
 * [Alberto Padoan](albertopadoan.com), ETH Zurich
+* [Pontus Giselsson](https://www.control.lth.se/personnel-old/pontus-giselsson/), Lund University
+* [Sebastian Banert](https://www.lunduniversity.lu.se/lucat/user/a76b6f949674be884b44ee412a8740e2), Lund University
+* [Richard Pates](https://www.richardpates.com/), Lund University
 
 ## Differential control synthesis
 
