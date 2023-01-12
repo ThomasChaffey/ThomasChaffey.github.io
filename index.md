@@ -21,6 +21,8 @@ I love searching for connections between the latest research topics and old, for
 # Bio
 I am currently a Research Fellow at [Pembroke College, Cambridge](https://www.pem.cam.ac.uk/college/master-and-fellows/list-fellows/dr-tom-chaffey).  I completed my PhD in April 2022 in the Control Group, University of Cambridge, supervised by [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/).  From August 2022, I spent seven weeks as a visiting researcher in the Department of Automatic Control at Lund University, Sweden.  My undergraduate degree was in mathematics and computer science, and my masters was in mechanical engineering, both at the University of Sydney, Australia.  I'm a qualified welder, and I love rock climbing, cycling, surfing and music (especially Bach and anything with a time signature of 7).
 
+In 2023 I was interviewed for the [IEEE Control Systems "PhDs in Control" column](https://ieeexplore.ieee.org/document/10015605).
+
 # Publications
 For a full list of publications, see my [Google Scholar page](https://scholar.google.nl/citations?user=mpR3WKgAAAAJ&hl=en).  A copy of my PhD thesis can be downloaded [here](/assets/pdf/Tom_thesis.pdf).  Please let me know if you find any typos.
 
