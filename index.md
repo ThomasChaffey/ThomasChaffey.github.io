@@ -40,7 +40,7 @@ The SRG is a generalization of the Nyquist diagram to stable nonlinear operators
 The figure above shows an analytical SRG of an LTI transfer function (left, Nyquist diagram in black), and a sampling of the SRG of Hodgkin and Huxley's potassium conductance (right).
 
 ### Publications
-* Chaffey, Forni, Sepulchre, *Graphical Nonlinear System Analysis*, IEEE Transactions on Automatic Control, early access January 2023, [journal](https://ieeexplore.ieee.org/document/10005799), [arxiv](https://arxiv.org/abs/2107.11272)
+* Chaffey, Forni, Sepulchre, *Graphical Nonlinear System Analysis*, IEEE Transactions on Automatic Control, 2023 (early access), [journal](https://ieeexplore.ieee.org/document/10005799), [arxiv](https://arxiv.org/abs/2107.11272)
 * Chaffey, *A rolled-off passivity theorem*, Systems & Control Letters, vol. 162, April 2022, [journal](https://www.sciencedirect.com/science/article/pii/S0167691122000421), [arxiv](https://arxiv.org/abs/2108.07634)
 * Chaffey, Forni, Sepulchre, *Scaled Relative Graphs for system analysis*, 2021 IEEE CDC, winner of the Oustanding Student Paper Award [arxiv](https://arxiv.org/abs/2103.13971)
 * Chaffey, Padoan, *Circuit Model Reduction with Scaled Relative Graphs*, submitted to 2022 IEEE CDC [arxiv](https://arxiv.org/abs/2204:01434)
@@ -60,7 +60,7 @@ This project explores the connections between nonlinear electrical circuits, mod
 
 The mathematical property of *monotonicity* was born in the study of nonlinear circuits in the early 1960s, in the work of George Minty (known also for the [Klee-Minty cube](https://en.wikipedia.org/wiki/Klee%E2%80%93Minty_cube)).  Monotonicity means energy-dissipating, loosly speaking, and it is closely related to the property of incremental passivity, studied by Zames around the same time.  Monotonicity has since become a fundamental property in the theory of large-scale optimization.  
 
-Revisiting the study of nonlinear circuits using modern monotone optimization techniques has lead to a new algorithmic method for solving nonlinear circuits.  The method uses a *splitting algorithm*, where the splitting corresponds to the circuit interconnection structure.  Searching for splitting algorithms that match circuit structures has also lead to a new splitting method, the *nested forward/backward splitting*, which matches arbitrary series/parallel interconnections.  This method can be used to solve the circuit shown above - an example with $n=100,000$ is shown below.
+Revisiting the study of nonlinear circuits using modern monotone optimization techniques has lead to a new algorithmic method for solving nonlinear circuits.  The method uses a *splitting algorithm*, where the splitting corresponds to the circuit interconnection structure.  Searching for splitting algorithms that match circuit structures has also lead to a new splitting method, the *nested forward/backward splitting*, which matches arbitrary series/parallel interconnections.  This method can be used to solve the circuit shown above - an example with $n=100,000$ is shown below.  An alternate method is to use element extraction to express the circuit as the sum of a monotone operator, containing the elements, and a skew-symmetric operator, representing the circuit interconnection.  The Condat--V\~u algorithm can then be applied to solve the circuit behavior.
 
 The property of monotoncity can be used to understand systems with self-sustaining oscillations, modelled as the difference of two monotone systems.  Such systems include the FitzHugh-Nagumo model of an excitable neuron, and the Amari model of lateral inhibition.
 
@@ -69,11 +69,11 @@ The property of monotoncity can be used to understand systems with self-sustaini
 @@
 
 ### Publications
-* Chaffey, Sepulchre, *Monotone one-port circuits*, preprint 2021, [arxiv](https://arxiv.org/abs/2111.15407), [code](https://github.com/ThomasChaffey/monotone-one-port-circuits)
+* Chaffey, Sepulchre, *Monotone one-port circuits*, IEEE Transactions on Automatic Control, 2023 (early access), [journal](https://ieeexplore.ieee.org/document/10121908), [arxiv](https://arxiv.org/abs/2111.15407), [code](https://github.com/ThomasChaffey/monotone-one-port-circuits)
 * Chaffey, Sepulchre, *Monotone RLC Circuits*, 2021 European Control Conference, winner of the Best Student Paper Award, [arxiv](https://arxiv.org/abs/2012.11533)
 * Das, Chaffey, Sepulchre, *Oscillations in Mixed-Feedback Systems*, Systems & Control Letters, vol. 166, August 2022, [journal](https://www.sciencedirect.com/science/article/pii/S0167691122000998), [arxiv](https://arxiv.org/abs/2103.16379)
 * Chaffey, Padoan, *Circuit Model Reduction with Scaled Relative Graphs*, 2022 IEEE CDC [arxiv](https://arxiv.org/abs/2204:01434)
-* Chaffey, Banert, Giselsson, Pates, *Circuit Analysis using Monotone+Skew Splitting*, submitted to 2023 European Control Conference, [arxiv](https://arxiv.org/abs/2211.14010)
+* Chaffey, Banert, Giselsson, Pates, *Circuit Analysis using Monotone+Skew Splitting*, 2023 European Control Conference, [arxiv](https://arxiv.org/abs/2211.14010)
 
 ### Collaborators
 * [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/), University of Cambridge
