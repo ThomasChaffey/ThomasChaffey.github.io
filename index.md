@@ -48,7 +48,7 @@ The figure above shows an analytical SRG of an LTI transfer function (left, Nyqu
 ### Collaborators
 * [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/), University of Cambridge
 * [Fulvio Forni](https://sites.google.com/site/fulvioforni/), University of Cambridge
-* [Alberto Padoan](albertopadoan.com), ETH Zurich
+* [Alberto Padoan](https://albertopadoan.com), ETH Zurich
 
 ## Monotone circuits
 
@@ -70,16 +70,16 @@ The property of monotoncity can be used to understand systems with self-sustaini
 
 ### Publications
 * Chaffey, Sepulchre, *Monotone one-port circuits*, IEEE Transactions on Automatic Control, 2023 (early access), [journal](https://ieeexplore.ieee.org/document/10121908), [arxiv](https://arxiv.org/abs/2111.15407), [code](https://github.com/ThomasChaffey/monotone-one-port-circuits)
+* Chaffey, Banert, Giselsson, Pates, *Circuit Analysis using Monotone+Skew Splitting*, European Journal of Control, Special Issue for the 2023 European Control Conference, [journal](https://doi.org/10.1016/j.ejcon.2023.100854), [arxiv](https://arxiv.org/abs/2211.14010), [code](https://github.com/ThomasChaffey/circuit-analysis-using-monotone-skew-splitting)
 * Chaffey, Sepulchre, *Monotone RLC Circuits*, 2021 European Control Conference, winner of the Best Student Paper Award, [arxiv](https://arxiv.org/abs/2012.11533)
 * Das, Chaffey, Sepulchre, *Oscillations in Mixed-Feedback Systems*, Systems & Control Letters, vol. 166, August 2022, [journal](https://www.sciencedirect.com/science/article/pii/S0167691122000998), [arxiv](https://arxiv.org/abs/2103.16379)
 * Chaffey, Padoan, *Circuit Model Reduction with Scaled Relative Graphs*, 2022 IEEE CDC [arxiv](https://arxiv.org/abs/2204:01434)
-* Chaffey, Banert, Giselsson, Pates, *Circuit Analysis using Monotone+Skew Splitting*, 2023 European Control Conference, [arxiv](https://arxiv.org/abs/2211.14010)
 
 ### Collaborators
 * [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/), University of Cambridge
 * [Amritam Das](http://amritamdas.com/), KTH Royal Institute of Technology
 * [Fulvio Forni](https://sites.google.com/site/fulvioforni/), University of Cambridge
-* [Alberto Padoan](albertopadoan.com), ETH Zurich
+* [Alberto Padoan](https://albertopadoan.com), ETH Zurich
 * [Pontus Giselsson](https://www.control.lth.se/personnel-old/pontus-giselsson/), Lund University
 * [Sebastian Banert](https://www.lunduniversity.lu.se/lucat/user/a76b6f949674be884b44ee412a8740e2), Lund University
 * [Richard Pates](https://www.richardpates.com/), Lund University
