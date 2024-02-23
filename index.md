@@ -39,6 +39,8 @@ The SRG is a generalization of the Nyquist diagram to stable nonlinear operators
 
 The figure above shows an analytical SRG of an LTI transfer function (left, Nyquist diagram in black), and a sampling of the SRG of Hodgkin and Huxley's potassium conductance (right).
 
+Some code for plotting SRGs is available [here](https://github.com/ThomasChaffey/Linear-SRG).
+
 ### Publications
 * Chaffey, Forni, Sepulchre, *Graphical Nonlinear System Analysis*, IEEE Transactions on Automatic Control, 2023 (early access), [journal](https://ieeexplore.ieee.org/document/10005799), [arxiv](https://arxiv.org/abs/2107.11272)
 * Chaffey, *A rolled-off passivity theorem*, Systems & Control Letters, vol. 162, April 2022, [journal](https://www.sciencedirect.com/science/article/pii/S0167691122000421), [arxiv](https://arxiv.org/abs/2108.07634)
