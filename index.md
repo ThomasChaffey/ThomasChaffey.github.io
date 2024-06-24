@@ -10,16 +10,18 @@ rss = "Research in nonlinear control systems, circuits and optimization."
 Much of my work involves revisiting classical nonlinear input/output systems theory
 and nonlinear circuit theory with modern methods from optimization.  Particular interests include:
 
+* analogue neuromorphic circuits
 * graphical analysis and design methods
 * monotone operator methods in large-scale optimization
 * the interplay between circuit theory and convex optimization
-* analogue neuromorphic circuits
 * behavioural models of systems
 
 I love searching for connections between the latest research topics and old, forgotten ideas.  My two biggest heros are probably [Jan Willems](https://homes.esat.kuleuven.be/~sistawww/smc/jwillems/) and [George Zames](http://www.mit.edu/~mitter/publications/85_legacy_zames_IEEEAC.pdf).
 
 # Bio
-I am currently a Research Fellow at [Pembroke College, Cambridge](https://www.pem.cam.ac.uk/college/master-and-fellows/list-fellows/dr-tom-chaffey).  I completed my PhD in April 2022 in the Control Group, University of Cambridge, supervised by [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/).  From August 2022, I spent seven weeks as a visiting researcher in the Department of Automatic Control at Lund University, Sweden.  My undergraduate degree was in mathematics and computer science, and my masters was in mechanical engineering, both at the University of Sydney, Australia.  I'm a qualified welder, and I love rock climbing, cycling, surfing and music (especially Bach and anything with a time signature of 7).
+I am currently a Research Fellow at [Pembroke College, Cambridge](https://www.pem.cam.ac.uk/college/master-and-fellows/list-fellows/dr-tom-chaffey). In January 2025 I will join the [School of Electrical and Computer Engineering, University of Sydney](https://www.sydney.edu.au/engineering/schools/school-of-electrical-and-computer-engineering.html) as a lecturer.  If you are interested in doing a PhD with me, please get in touch.
+
+  I completed my PhD in April 2022 in the Control Group, University of Cambridge, supervised by [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/).  From August 2022, I spent seven weeks as a visiting researcher in the Department of Automatic Control at Lund University, Sweden.  My undergraduate degree was in mathematics and computer science, and my masters was in mechanical engineering, both at the University of Sydney, Australia.  I'm a qualified welder, and I love rock climbing, cycling, surfing and music (especially Bach and anything with a time signature of 7).
 
 In 2023 I was interviewed for the [IEEE Control Systems "PhDs in Control" column](https://ieeexplore.ieee.org/document/10015605).
 
@@ -46,11 +48,13 @@ Some code for plotting SRGs is available [here](https://github.com/ThomasChaffey
 * Chaffey, *A rolled-off passivity theorem*, Systems & Control Letters, vol. 162, April 2022, [journal](https://www.sciencedirect.com/science/article/pii/S0167691122000421), [arxiv](https://arxiv.org/abs/2108.07634)
 * Chaffey, Forni, Sepulchre, *Scaled Relative Graphs for system analysis*, 2021 IEEE CDC, winner of the Oustanding Student Paper Award [arxiv](https://arxiv.org/abs/2103.13971)
 * Chaffey, Padoan, *Circuit Model Reduction with Scaled Relative Graphs*, 2022 IEEE CDC [arxiv](https://arxiv.org/abs/2204:01434)
+* van den Eijnden, Chaffey, Oomen, Heemels, *Scaled graphs for reset control system analysis*, European Journal of Control, 2024 (early access), [journal](https://www.sciencedirect.com/science/article/pii/S0947358024001109?via%3Dihub)
 
 ### Collaborators
 * [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/), University of Cambridge
 * [Fulvio Forni](https://sites.google.com/site/fulvioforni/), University of Cambridge
 * [Alberto Padoan](https://albertopadoan.com), ETH Zurich
+* [Sebastiaan van den Eijnden](https://research.tue.nl/en/persons/sebastiaan-jam-van-den-eijnden), TU Eindhoven
 
 ## Monotone circuits
 
@@ -73,6 +77,7 @@ The property of monotoncity can be used to understand systems with self-sustaini
 ### Publications
 * Chaffey, Sepulchre, *Monotone one-port circuits*, IEEE Transactions on Automatic Control, 2023 (early access), [journal](https://ieeexplore.ieee.org/document/10121908), [arxiv](https://arxiv.org/abs/2111.15407), [code](https://github.com/ThomasChaffey/monotone-one-port-circuits)
 * Chaffey, Banert, Giselsson, Pates, *Circuit Analysis using Monotone+Skew Splitting*, European Journal of Control, Special Issue for the 2023 European Control Conference, [journal](https://doi.org/10.1016/j.ejcon.2023.100854), [arxiv](https://arxiv.org/abs/2211.14010), [code](https://github.com/ThomasChaffey/circuit-analysis-using-monotone-skew-splitting)
+* Chaffey, van Waarde, Sepulchre, *Relaxation Systems and Cyclic Monotonicity*, 2023 IEEE Conference on Decision and Control, [arxiv](https://arxiv.org/abs/2312.03389)
 * Chaffey, Sepulchre, *Monotone RLC Circuits*, 2021 European Control Conference, winner of the Best Student Paper Award, [arxiv](https://arxiv.org/abs/2012.11533)
 * Das, Chaffey, Sepulchre, *Oscillations in Mixed-Feedback Systems*, Systems & Control Letters, vol. 166, August 2022, [journal](https://www.sciencedirect.com/science/article/pii/S0167691122000998), [arxiv](https://arxiv.org/abs/2103.16379)
 * Chaffey, Padoan, *Circuit Model Reduction with Scaled Relative Graphs*, 2022 IEEE CDC [arxiv](https://arxiv.org/abs/2204:01434)
@@ -85,6 +90,7 @@ The property of monotoncity can be used to understand systems with self-sustaini
 * [Pontus Giselsson](https://www.control.lth.se/personnel-old/pontus-giselsson/), Lund University
 * [Sebastian Banert](https://www.lunduniversity.lu.se/lucat/user/a76b6f949674be884b44ee412a8740e2), Lund University
 * [Richard Pates](https://www.richardpates.com/), Lund University
+* [Henk van Waarde](https://henkvanwaarde.github.io/), University of Groningen
 
 ## Differential control synthesis
 
