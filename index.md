@@ -6,27 +6,30 @@ rss = "Research in nonlinear control systems, circuits and optimization."
 +++
 @def tags = ["control", "research", "circuits", "optimization"]
 
+Lecturer, [School of Electrical and Computer Engineering, University of Sydney](https://www.sydney.edu.au/engineering/schools/school-of-electrical-and-computer-engineering.html)
+
+# Open positions
+I have open PhD positions in my group at the University of Sydney.  If you're interested, please send me an email.
+
 # Research interests
-Much of my work involves revisiting classical nonlinear input/output systems theory
-and nonlinear circuit theory with modern methods from optimization.  Particular interests include:
+My research lies at the intersection of nonlinear control theory, convex optimisation, circuit theory and neural networks.  Particular interests include:
 
 * analogue neuromorphic circuits
 * graphical analysis and design methods
 * monotone operator methods in large-scale optimization
-* the interplay between circuit theory and convex optimization
-* behavioural models of systems
+* the interplay between circuit theory and convex optimisation.
 
 I love searching for connections between the latest research topics and old, forgotten ideas.  My two biggest heros are probably [Jan Willems](https://homes.esat.kuleuven.be/~sistawww/smc/jwillems/) and [George Zames](http://www.mit.edu/~mitter/publications/85_legacy_zames_IEEEAC.pdf).
 
-# Bio
-I am currently a Research Fellow at [Pembroke College, Cambridge](https://www.pem.cam.ac.uk/college/master-and-fellows/list-fellows/dr-tom-chaffey). In January 2025 I will join the [School of Electrical and Computer Engineering, University of Sydney](https://www.sydney.edu.au/engineering/schools/school-of-electrical-and-computer-engineering.html) as a lecturer.  If you are interested in doing a PhD with me, please get in touch.
+# Publications
+For a full list of publications, see my [Google Scholar page](https://scholar.google.nl/citations?user=mpR3WKgAAAAJ&hl=en).  A copy of my PhD thesis can be downloaded [here](/assets/pdf/Tom_thesis.pdf).  Please let me know if you find any typos.
 
-  I completed my PhD in April 2022 in the Control Group, University of Cambridge, supervised by [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/).  From August 2022, I spent seven weeks as a visiting researcher in the Department of Automatic Control at Lund University, Sweden.  My undergraduate degree was in mathematics and computer science, and my masters was in mechanical engineering, both at the University of Sydney, Australia.  I'm a qualified welder, and I love rock climbing, cycling, surfing and music (especially Bach and anything with a time signature of 7).
+# Bio
+
+From 2022 to 2025, I held the Maudslay-Butler Research Fellowship at Pembroke College, University of Cambridge.  I completed my PhD in April 2022 in the Control Group, University of Cambridge, supervised by [Rodolphe Sepulchre](https://sites.google.com/site/rsepulchre/).  From August 2022, I spent seven weeks as a visiting researcher in the Department of Automatic Control at Lund University, Sweden.  My undergraduate degree was in mathematics and computer science, and my masters was in mechanical engineering, both at the University of Sydney, Australia.  I'm a qualified welder, and I love rock climbing, cycling, surfing and music (especially Bach and anything with a time signature of 7).
 
 In 2023 I was interviewed for the [IEEE Control Systems "PhDs in Control" column](https://ieeexplore.ieee.org/document/10015605).
 
-# Publications
-For a full list of publications, see my [Google Scholar page](https://scholar.google.nl/citations?user=mpR3WKgAAAAJ&hl=en).  A copy of my PhD thesis can be downloaded [here](/assets/pdf/Tom_thesis.pdf).  Please let me know if you find any typos.
 
 # Projects
 
@@ -92,25 +95,10 @@ The property of monotoncity can be used to understand systems with self-sustaini
 * [Richard Pates](https://www.richardpates.com/), Lund University
 * [Henk van Waarde](https://henkvanwaarde.github.io/), University of Groningen
 
-## Differential control synthesis
-
-Differential analysis methods, popularized in systems and control by Winfried Lohmiller and Jean-Jaques Slotine in 1998, involve the analysis of a nonlinear dynamical system via the analysis of its linearization along trajectories, or its *differential dynamics*.  The differential dynamics describe the behaviour of the system in a small neighbourhood of a trajectory.  The approach is made tractable by enforcing some sort of uniformity over the differential dynamics.  Contraction analysis is the differential analysis of stability - loosely speaking, if the differential dynamics are stable in every locality with some minimum rate of convergence, then the global system is also stable. 
-
-Recent work by Ian Manchester and Jean-Jacques Slotine studies the corresponding stabilizability problem: if the differential dynamics are stabilizable in every locality, with some minimum rate of convergence, then the global system is stabilizable.  A global controller can be constructed from a family of differential controllers.  
-
-My work expands the class of controllers that can be used, to include those that don't come from quadratic Lyapunov functions.  This allows some interesting controllers to be constructed, such as controllers which push harder going from $a$ to $b$ than they do from $b$ to $a$.  This is sensible:  I'd like my controller to work hard pushing a bicycle up a hill, but not to work very hard at all rolling it back down!
-
-### Publications
-* Chaffey, Manchester, *Control Contraction Metrics on Finsler Manifolds*, 2018 American Control Conference, [arxiv](https://arxiv.org/abs/1803.01034)
-
-### Collaborators
-* [Ian Manchester](http://www-personal.acfr.usyd.edu.au/ian/bio/), University of Sydney
-
 # Contact
-tlc37 [at] cam.ac.uk
+thomas.chaffey [at] sydney.edu.au
 
 Thomas Chaffey,
-Department of Engineering,
-University of Cambridge,
-Trumpington Street,
-CB2 1PZ Cambridge, UK
+School of Electrical and Computer Engineering
+University of Sydney,
+NSW 2006, Australia
