@@ -15,6 +15,7 @@ I have open PhD positions in my group at the University of Sydney. For more info
 
 * *09/05/2025* My paper with Fulvio Forni on a novel describing function method utlising square waves rather than sinusoids has been accepted for presentation at the European Control Conference in June.  The paper is titled [Amplitude response and square wave describing functions](https://arxiv.org/abs/2412.01579)
 * *09/05/2025* The following tow papers have been submitted to the 2025 IEEE Conference on Decision and Control: [On phase in scaled graphs](https://arxiv.org/abs/2504.21448), [Graphical Dominance Analysis for Linear Systems: A Frequency-Domain Approach](https://arxiv.org/abs/2504.14394).
+* *02/04/2025* Together with Arjan van der Schaft and Rodolphe Sepulchre, we have posted a preprint titled [Symmetry in linear physical systems](https://arxiv.org/abs/2504.02062), which explores geometric characterisations of various symmetric structres that arise in models of physical systems.
 * *15/03/2025* We just posted a [preprint](https://arxiv.org/abs/2503.00349) on convergence of energy based learning algorithms in circuits which learn.
 
 # Research interests
