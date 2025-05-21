@@ -1,7 +1,7 @@
 +++
 title = "Thomas Chaffey"
 hascode = true
-date = Date(2023, 08, 22)
+date = Date(2025, 05, 21)
 rss = "Research in nonlinear control systems, circuits and optimization."
 +++
 @def tags = ["control", "research", "circuits", "optimization"]
