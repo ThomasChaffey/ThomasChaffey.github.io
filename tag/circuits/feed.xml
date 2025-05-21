@@ -23,6 +23,25 @@
 
 <item>
   <title>
+    <![CDATA[  References – Monotone systems, circuits and networks  ]]>
+  </title>
+  <link> https://www.tchaffey.com/refs/index.html </link>
+  <guid> https://www.tchaffey.com/refs/index.html </guid>
+  <description>
+    <![CDATA[  Research in nonlinear control systems, circuits and optimization.  ]]>
+  </description>  
+    
+  <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Thomas Chaffey</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  Thomas Chaffey  ]]>
   </title>
   <link> https://www.tchaffey.com/index.html </link>
@@ -31,7 +50,7 @@
     <![CDATA[  Research in nonlinear control systems, circuits and optimization.  ]]>
   </description>  
     
-  <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>  
+  <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
