@@ -6,7 +6,7 @@ rss = "Research in nonlinear control systems, circuits and optimization."
 +++
 @def tags = ["control", "research", "circuits", "optimization"]
 
-# Monotone systems, circuits and networks
+# Computing gradients in analog circuits
 ## List of references
 
 ### Monotone networks
