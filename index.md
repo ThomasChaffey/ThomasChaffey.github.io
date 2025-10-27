@@ -13,7 +13,7 @@ I have open PhD positions in my group at the University of Sydney. For more info
 
 # Updates
 
-* *28/10/2025* Our paper on kernel-based modelling of fading memory systems has been accepted in the IEEE Transactions on Automatic Control.  The published paper can be found [here](https://ieeexplore.ieee.org/document/11204380)
+* *28/10/2025* Our paper on kernel-based modelling of fading memory systems has been accepted in the IEEE Transactions on Automatic Control, coauthored with Yongkang Huo and Rodolphe Sepulchre.  The published paper can be found [here](https://ieeexplore.ieee.org/document/11204380)
 * *19/09/2025* I just posted a [preprint](https://arxiv.org/abs/2509.13793) which develops a theoretical framework for studying analog machine learning hardware, grounded in monotone operator theory.  It is shown that the class of monotone operator equilibrium networks corresponds to electric circuits built with resistors, transformers, gyrators and diodes.  Inference can be performed in a single operation, and the gradient of the circuit can be computed directly in hardware using *hardware linearization*.
 
 * *02/09/2025* My paper with Fulvio Forni on a novel describing function method utlising square waves rather than sinusoids has been published in the special issue of the European Journal of Control for the 2025 European Control Conference.  The paper is titled [Amplitude response and square wave describing functions](https://doi.org/10.1016/j.ejcon.2025.101310).
