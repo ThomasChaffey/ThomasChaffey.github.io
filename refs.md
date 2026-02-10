@@ -11,10 +11,11 @@ rss = "Research in nonlinear control systems, circuits and optimization."
 
 ### Monotone networks
 
+* Chaffey, *Circuit realization and hardware linearization of monotone operator equilibrium networks*, 2025, [arxiv](https://arxiv.org/abs/2509.13793)
 * Chaffey, Sepulchre, *Monotone one-port circuits*, IEEE Transactions on Automatic Control, 2024, [journal](https://ieeexplore.ieee.org/document/10121908), [arxiv](https://arxiv.org/abs/2111.15407), [code](https://github.com/ThomasChaffey/monotone-one-port-circuits)
 * Chaffey, Banert, Giselsson, Pates, *Circuit Analysis using Monotone+Skew Splitting*, European Journal of Control, Special Issue for the 2023 European Control Conference, [journal](https://doi.org/10.1016/j.ejcon.2023.100854), [arxiv](https://arxiv.org/abs/2211.14010), [code](https://github.com/ThomasChaffey/circuit-analysis-using-monotone-skew-splitting)
 * Chaffey, van Waarde, Sepulchre, *Relaxation Systems and Cyclic Monotonicity*, 2023 IEEE Conference on Decision and Control, [arxiv](https://arxiv.org/abs/2312.03389)
-* Shahhosseini, Chaffey, Sepulchre, *An operator-theoretic framework to simulate neuromorphic circuits*, 2024 IEEE Conference on Decision and Control, [proccedings](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10886469)
+* Shahhosseini, Chaffey, Sepulchre, *Operator-splitting methods for neuromorphic circuit simulation*, 2025, [arxiv](https://arxiv.org/abs/2505.22363)
 
 ### Energy-based learning
 
