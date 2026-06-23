@@ -9,17 +9,17 @@ rss = "Research in nonlinear control systems, circuits and optimization."
 Lecturer, [School of Electrical and Computer Engineering, University of Sydney](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/thomas-chaffey.html)
 
 # Open positions
-I have open PhD positions in my group at the University of Sydney. For more information, see [this page](https://www.sydney.edu.au/research/opportunities/3625.html).
+I am always looking for talented PhD applicants. 
 
 # Updates
 
+* *15/06/2026* My masters student James Li has had a [paper](https://ieeexplore.ieee.org/document/11563826) published in IEEE L-CSS on the quantization robustness of monotone operator equilibrium networks, exploring the convergence implications of deploying these machine learning models on quantized hardware. 
+* *26/03/2026* Our [paper](https://ieeexplore.ieee.org/document/11456345) on convergence of energy based learning algorithms in circuits which learn has been published in the IEEE Transactions on Systems and Control.
+* *12/12/2025* Together with Arjan van der Schaft and Rodolphe Sepulchre, we have published a paper in Systems and Control Letters titled [Symmetry structures in linear physical systems](https://www.sciencedirect.com/science/article/pii/S0167691125002695), which explores geometric characterisations of various symmetric structres that arise in models of physical systems.
 * *28/10/2025* Our paper on kernel-based modelling of fading memory systems has been accepted in the IEEE Transactions on Automatic Control, coauthored with Yongkang Huo and Rodolphe Sepulchre.  The published paper can be found [here](https://ieeexplore.ieee.org/document/11204380)
 * *19/09/2025* I just posted a [preprint](https://arxiv.org/abs/2509.13793) which develops a theoretical framework for studying analog machine learning hardware, grounded in monotone operator theory.  It is shown that the class of monotone operator equilibrium networks corresponds to electric circuits built with resistors, transformers, gyrators and diodes.  Inference can be performed in a single operation, and the gradient of the circuit can be computed directly in hardware using *hardware linearization*.
 
 * *02/09/2025* My paper with Fulvio Forni on a novel describing function method utlising square waves rather than sinusoids has been published in the special issue of the European Journal of Control for the 2025 European Control Conference.  The paper is titled [Amplitude response and square wave describing functions](https://doi.org/10.1016/j.ejcon.2025.101310).
-* *09/05/2025* The following two papers will be presented at the 2025 IEEE Conference on Decision and Control: [On phase in scaled graphs](https://arxiv.org/abs/2504.21448), [Graphical Dominance Analysis for Linear Systems: A Frequency-Domain Approach](https://arxiv.org/abs/2504.14394).
-* *02/04/2025* Together with Arjan van der Schaft and Rodolphe Sepulchre, we have posted a preprint titled [Symmetry in linear physical systems](https://arxiv.org/abs/2504.02062), which explores geometric characterisations of various symmetric structres that arise in models of physical systems.
-* *15/03/2025* We just posted a [preprint](https://arxiv.org/abs/2503.00349) on convergence of energy based learning algorithms in circuits which learn.
 
 # Research interests
 My research lies at the intersection of nonlinear control theory, convex optimisation, circuit theory and neural networks.  Particular interests include:
