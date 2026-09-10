@@ -36,7 +36,7 @@ I love searching for connections between the latest research topics and old, for
 For a full list of publications, see my [Google Scholar page](https://scholar.google.nl/citations?user=mpR3WKgAAAAJ&hl=en).  A copy of my PhD thesis can be downloaded [here](/assets/pdf/Tom_thesis.pdf).  Please let me know if you find any typos.
 
 # Teaching
-Course notes for ELEC2302: Signals and Systems are available [here](tchaffey.com/elec2302).
+Course notes for ELEC2302: Signals and Systems are available [here](/elec2302).
 
 # Bio
 
