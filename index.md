@@ -13,6 +13,7 @@ I am always looking for talented PhD applicants.
 
 # Updates
 
+* *10/09/2026* I have published a [paper](https://ieeexplore.ieee.org/document/11677149) with colleagues from TU Eindhoven in IEEE L-CSS on amplitude-dependent Bode diagrams for nonlinear systems.
 * *15/06/2026* My masters student James Li has had a [paper](https://ieeexplore.ieee.org/document/11563826) published in IEEE L-CSS on the quantization robustness of monotone operator equilibrium networks, exploring the convergence implications of deploying these machine learning models on quantized hardware. 
 * *26/03/2026* Our [paper](https://ieeexplore.ieee.org/document/11456345) on convergence of energy based learning algorithms in circuits which learn has been published in the IEEE Transactions on Systems and Control.
 * *12/12/2025* Together with Arjan van der Schaft and Rodolphe Sepulchre, we have published a paper in Systems and Control Letters titled [Symmetry structures in linear physical systems](https://www.sciencedirect.com/science/article/pii/S0167691125002695), which explores geometric characterisations of various symmetric structres that arise in models of physical systems.
@@ -33,6 +34,9 @@ I love searching for connections between the latest research topics and old, for
 
 # Publications
 For a full list of publications, see my [Google Scholar page](https://scholar.google.nl/citations?user=mpR3WKgAAAAJ&hl=en).  A copy of my PhD thesis can be downloaded [here](/assets/pdf/Tom_thesis.pdf).  Please let me know if you find any typos.
+
+# Teaching
+Course notes for ELEC2302: Signals and Systems are available [here](tchaffey.com/elec2302).
 
 # Bio
 
