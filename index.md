@@ -13,6 +13,7 @@ I am always looking for talented PhD applicants.
 
 # Updates
 
+* *17/10/2026* Craig Jin and I just submitted a paper to ISCAS on the *reciprocal tau cell*, a CMOS circuit which uses hardware linearisation to train itself.  You can find the preprint [here](https://arxiv.org/abs/2610.20018v1).
 * *10/09/2026* I have published a [paper](https://ieeexplore.ieee.org/document/11677149) with colleagues from TU Eindhoven in IEEE L-CSS on amplitude-dependent Bode diagrams for nonlinear systems.
 * *15/06/2026* My masters student James Li has had a [paper](https://ieeexplore.ieee.org/document/11563826) published in IEEE L-CSS on the quantization robustness of monotone operator equilibrium networks, exploring the convergence implications of deploying these machine learning models on quantized hardware. 
 * *26/03/2026* Our [paper](https://ieeexplore.ieee.org/document/11456345) on convergence of energy based learning algorithms in circuits which learn has been published in the IEEE Transactions on Systems and Control.
